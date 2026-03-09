@@ -1,4 +1,4 @@
-# Abdelrahman K.
+# Abdelrahman Karam
 
 AI Engineer specializing in Artificial Intelligence, Machine Learning, Natural Language Processing, and Computer Vision. I focus on building practical AI systems that solve real-world problems using modern machine learning and deep learning technologies.
 
